@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamApp</string>
+    <string name="loading">Caricamento…</string>
+    <string name="back">Indietro</string>
+    <string name="play">Riproduci</string>
+    <string name="season">Stagione</string>
+    <string name="episode">Episodio</string>
+</resources>
